@@ -43,28 +43,28 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <div align="center">
 <p align="center">
   <br>
-  <a href="https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw" target="_blank">
+  <a href="-" target="_blank">
     <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
   </a>
-  <a href="mailto:sagar.0dev@gmail.com" target="_blank">
+  <a href="mailto:jaychotaliya1509@gmail.com" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>
-  <a href="https://twitter.com/sagar0_o" target="_blank">
+  <a href="https://twitter.com/Jay1509_" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
   </a>
-  <a href="https://www.linkedin.com/in/sagar0-0malhotra/" target="_blank">
+  <a href="https://www.linkedin.com/in/jay-chotaliya-3a414a254/" target="_blank">
     <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
   </a>
-  <a href="https://sagar0-0.medium.com/" target="_blank">
+  <a href="-" target="_blank">
     <code><img height="50" width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"></code>
   </a>
-  <a href="https://www.instagram.com/_sagar_malhotra_/" target="_blank">
+  <a href="https://www.instagram.com/jay_chotaliya09/" target="_blank">
     <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
   </a>
-  <a href="https://sagar0-0.hashnode.dev/" target="_blank">
-    <code><img height="50" width="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"></code>
+  <a href="https://www.instagram.com/jay_chotaliya09/" target="_blank">
+    <code><img height="50" width="50" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?size=626&ext=jpg?auto=compress"></code>
   </a>
-  <a href="https://discordapp.com/users/sagar0_0#2945" target="_blank">
+  <a href="-" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"></code>
   </a>
 </p>
