@@ -18,7 +18,7 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://sagar0-0.hashnode.dev/effect-handlers-in-jetpack-compose-a-complete-guide" title="Explore Treetop Quest Philly In 2024 with natural beauty><img src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1702554640204/b9f9aa42-8906-458b-ae85-7d74f9f4c332.png](https://globaltechchallenge.com/wp-content/uploads/2023/09/s-b-vonlanthen-D75_5tWZDQ4-unsplash-jpg.webp)" alt="Explore Treetop Quest Philly In 2024 with natural beauty"] width="250px" align="left" /></a>
+<a href="https://globaltechchallenge.com/explore-treetop-quest-philly-in-2024/" title="Explore Treetop Quest Philly In 2024 with natural beauty><img src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1702554640204/b9f9aa42-8906-458b-ae85-7d74f9f4c332.png](https://globaltechchallenge.com/wp-content/uploads/2023/09/s-b-vonlanthen-D75_5tWZDQ4-unsplash-jpg.webp)" alt="Explore Treetop Quest Philly In 2024 with natural beauty"] width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/effect-handlers-in-jetpack-compose-a-complete-guide" title="Effect Handlers in Jetpack Compose: A Complete Guide"><strong>Effect Handlers in Jetpack Compose: A Complete Guide</strong></a>
 <br/> Effect Handlers: as the name suggests, they are used to handle the “side”-effects in Jetpack-Compose. But, what exactly is a *side-*effect?
 According to docs: A side-effect is a change to the state of the app that happens outside the scope of a compo... </p> <br/> <br/>
