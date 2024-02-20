@@ -61,8 +61,8 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
   <a href="https://www.instagram.com/jay_chotaliya09/" target="_blank">
     <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
   </a>
-  <a href="https://www.instagram.com/jay_chotaliya09/" target="_blank">
-    <code><img height="50" width="50" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?size=626&ext=jpg?auto=compress"></code>
+  <a href="-" target="_blank">
+    <code><img height="50" width="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"></code>
   </a>
   <a href="-" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"></code>
