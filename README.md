@@ -81,6 +81,6 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 ### Wanna Help out?
-<a href="https://www.buymeacoffee.com/0sagar0">
+<a href="-">
   <img src="https://user-images.githubusercontent.com/85388413/197355117-e4a5f6e7-44ee-4303-adb8-3ef39cd18246.jpg" width=200px>
 </a>
