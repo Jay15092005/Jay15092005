@@ -1,9 +1,10 @@
 <!-- intro hello world -->
 <h1 align="center">
-𝐇𝐄𝐋𝐋𝐎 Connection! <img src="GIF/Earth.gif" width="24px">
+𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
 <img src= "GIF/android_by_deiby_ybied_d3jaevn.gif" height="250px" align="right">
 </h1>
 <br>
+
 
 - 💚 **Jay Chotaliya**
 - 🔮 **Data Science Enthusiast**
@@ -13,12 +14,27 @@
 <br>
 
 
+<hr>
+
+
+<!-- youtube section -->
+<h1 align="center">
+Latest Videos:
+</h1>
+<div align = "center">
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=7jCsY845xIQ" target="_blank"><img src="https://i.ytimg.com/vi/7jCsY845xIQ/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=-4fldrTInrc" target="_blank"><img src="https://i.ytimg.com/vi/-4fldrTInrc/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
+</div>
+
+
+<hr>
+
+
 <h1 align="center">
 Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://globaltechchallenge.com/explore-treetop-quest-philly-in-2024/" title="Explore Treetop Quest Philly In 2024 with natural beauty><img src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1702554640204/b9f9aa42-8906-458b-ae85-7d74f9f4c332.png](https://globaltechchallenge.com/wp-content/uploads/2023/09/s-b-vonlanthen-D75_5tWZDQ4-unsplash-jpg.webp)" alt="Explore Treetop Quest Philly In 2024 with natural beauty"] width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/effect-handlers-in-jetpack-compose-a-complete-guide" title="Effect Handlers in Jetpack Compose: A Complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702554640204/b9f9aa42-8906-458b-ae85-7d74f9f4c332.png" alt="Effect Handlers in Jetpack Compose: A Complete Guide" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/effect-handlers-in-jetpack-compose-a-complete-guide" title="Effect Handlers in Jetpack Compose: A Complete Guide"><strong>Effect Handlers in Jetpack Compose: A Complete Guide</strong></a>
 <br/> Effect Handlers: as the name suggests, they are used to handle the “side”-effects in Jetpack-Compose. But, what exactly is a *side-*effect?
 According to docs: A side-effect is a change to the state of the app that happens outside the scope of a compo... </p> <br/> <br/>
